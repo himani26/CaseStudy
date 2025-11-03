@@ -6,10 +6,15 @@ Fine-tuning a lightweight open-source LLM on your documents for domain-specific 
 This project demonstrates how to fine-tune a TinyLlama 1.1B Chat model using LoRA (Low-Rank Adaptation) on your own PDF/TXT documents to build a private, domain-specialized AI assistant.
 
 ✅ Upload any domain document
+
 ✅ Auto-extract text & generate Q&A pairs
+
 ✅ Fine-tune TinyLlama efficiently
+
 ✅ Deploy a chat UI using Streamlit
+
 ✅ Works locally / on Colab
+
 ✅ No cloud vendor lock-in
 
 ⸻
